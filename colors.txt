@@ -1,3 +1,8 @@
 blue
 red
 white
+
+add: 
+yellow
+green
+black
